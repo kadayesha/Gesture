@@ -1,0 +1,35 @@
+.heading {
+    font-size:25px;
+    width:100%;
+    margin:0px;
+    box-shadow: 5px 10px 18px grey;
+}
+
+.note {
+    font-size:20px;
+}
+
+canvas{
+    box-shadow: 8px 8px 15px gray;
+    border:15px dashed blue;
+    border-radius:10px;
+}
+
+#footer{
+    bottom:0;
+    position:fixed;
+    font-size:15px;
+    font-family:comic;
+    background-color:red;
+    width:100%;
+    text-align: center;
+    line-height:3;
+    opacity:50%;
+    color:white;
+}
+
+body{
+    background-image:url("background.jpg");
+    background-repeat: no-repeat;
+    background-size:cover
+}
